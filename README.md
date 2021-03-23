@@ -1,6 +1,6 @@
 # What King County Features Will Help Sell!
 
-![graph](./images/KC.png)
+![graph1](./images/KC.png)
 
 ## Overview
 
