@@ -1,8 +1,8 @@
 # What King County Features Will Help Sell!
 
-![graph1](./images/KC.png)
 
-## Overview
+
+# Overview
 
 This research is to find the features that will be the best predictor for increases in housing prices in king county. Linear regression models were used to measure just how much of an effect different attributes could have on the price of homes.
 
@@ -16,21 +16,18 @@ The problem of selling to buyers looking to sell for profit is that there needs 
 
 ### Square footage
 
-The first set of data that stood out was Square footage. When evaluating set of visualizations, it was cleat that Square footage was the best option og the given data. The best fit like was straighter on then the other option. The linear Regression model shows that at zero Square footage there isn't much of a profit but with each additional square footage there stands to make about $255 more than the original price. This increase is a great way to make predict return on investment going forward.
+The first set of data that stood out was Square footage. When evaluating set of visualizations, it was cleat that Square footage was the best option og the given data. The best fit like was straighter on then the other option. The linear Regression model shows that at zero Square footage there isn't much of a profit but with each additional square footage there stands to make about $253 more than the original price. This increase is a great way to make predict return on investment going forward.
 
 ### Crime
 
-
-
+The second set of data seemed significant was crime. As price goes up crime then goes up on average by 23. This could be because King county is a part of a major city, Seattle, so there is a higher probability of crime simply due to population density. However, giving your buyers the knowledge or area crime data might allow them to make an informed purchase for resale value.
 
 ### Landmarks 
 
-
+Landmarks had a very significant effect of the pricing of the predictive pricing of housing. In particular Docton Forest, a 40 acre forest attraction, as housing price increased by 1 the forest area forest area value increased by about 6,065. The other features were not as significant but attractions provide a good predictive indicator of housing prices.
 
 ### Conclusions
 
+In conclusion, Using the provided data and researched data we were able to model a linear regression model that showed that following elements are significant in predicting housing prices.
 
 
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
