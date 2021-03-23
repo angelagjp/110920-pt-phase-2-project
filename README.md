@@ -1,6 +1,6 @@
 # What King County Features Will Help Sell!
 
-('images/KC.png')
+![graph](./images/KC.png)
 
 ## Overview
 
@@ -14,15 +14,16 @@ The Data used in this was a combination of supplied data and researched data. Th
 
 The problem of selling to buyers looking to sell for profit is that there needs to be future profit in mind. They are looking for a return on their investment. 
 
-### Landmarks
-
-
-
 ### Square footage
 
-
+The first set of data that stood out was Square footage. When evaluating set of visualizations, it was cleat that Square footage was the best option og the given data. The best fit like was straighter on then the other option. The linear Regression model shows that at zero Square footage there isn't much of a profit but with each additional square footage there stands to make about $255 more than the original price. This increase is a great way to make predict return on investment going forward.
 
 ### Crime
+
+
+
+
+### Landmarks 
 
 
 
