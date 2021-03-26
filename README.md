@@ -19,14 +19,14 @@ The problem of selling to buyers looking to sell for profit is that there needs 
 ![liveable_chart](./notebooks/images/liveable_chart.png)
 
 
-The first set of data that stood out was square footage of the interier living space. When evaluating set of visualizations, it was clear that this Square footage was the best option of the given data. The best fit line was straighter on then the other option. According to the linear regression model with every 212 square feet there is an increase in price. This increase is a great way to make predict return on investment going forward.
+The first set of data that stood out was square footage of the interier living space. When evaluating set of visualizations, it was clear that this Square footage was the best option of the given data. The best fit line was straighter on then the other option. According to the linear regression model with every 212 square feet there is an increase in price of about $1.23. This increase is a great way to make predict return on investment going forward.
 
 
 ### Square footage from above 
 
 ![Aboveliveable_chart](./notebooks/images/Aboveliveable_chart.png)
 
-The second set of data that stood out was the square footge above ground level. When looking into this number as the square footage increased by 57 square feet the price increased as well. This could help buyer when they are deciding between a ranch or a traditional multiple story dwelling. 
+The second set of data that stood out was the square footge above ground level. When looking into this number as the square footage increased by 57 square feet the price increased of about $1.23 as well. This could help buyer when they are deciding between a ranch or a traditional multiple story dwelling. 
 
 ### Landmarks 
 
