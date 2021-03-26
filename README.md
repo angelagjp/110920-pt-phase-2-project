@@ -24,7 +24,7 @@ The first set of data that stood out was square footage of the interier living s
 
 ### Square footage from above 
 
-
+![Aboveliveable_chart](./notebooks/images/Aboveliveable_chart.png)
 
 The second set of data that stood out was the square footge above ground level. When looking into this number as the square footage increased by 57 square feet the price increased as well. This could help buyer when they are deciding between a ranch or a traditional multiple story dwelling. 
 
