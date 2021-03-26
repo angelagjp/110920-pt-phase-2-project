@@ -1,6 +1,7 @@
 # What King County Features Will Help Sell!
 
-![graph1](./images/liveable_chart.png)
+![liveable_chart](./notebooks/images/liveable_chart.png)
+
 
 # Overview
 
@@ -25,7 +26,7 @@ The second set of data that stood out was the square footge above ground level. 
 
 ### Landmarks 
 
-Landmarks had a very significant effect of the pricing of the predictive pricing of housing. These landmacks included scheools, libraries, and food sources. The inclusions of landmarcks jumped or model from having a variance of 55% to a variance of 72%. The shows that steering buyers to homes to self susstaining areas might help them get the best return in the long run.
+Landmarks had a very significant effect of the pricing of the predictive pricing of housing. These landmarks included scheools, libraries, and food sources. The inclusions of landmarks jumped or model from having a variance of 55% to a variance of 72%. The shows that steering buyers to homes to self sustaining areas might help them get the best return in the long run.
 
 ### Conclusions
 
