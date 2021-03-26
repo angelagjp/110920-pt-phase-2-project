@@ -1,6 +1,6 @@
 # What King County Features Will Help Sell!
 
-
+![graph1](./images/liveable_chart.png)
 
 # Overview
 
@@ -14,20 +14,21 @@ The Data used in this was a combination of supplied data and researched data. Th
 
 The problem of selling to buyers looking to sell for profit is that there needs to be future profit in mind. They are looking for a return on their investment. 
 
-### Square footage
+### Livable Square footage
 
-The first set of data that stood out was Square footage. When evaluating set of visualizations, it was cleat that Square footage was the best option og the given data. The best fit like was straighter on then the other option. The linear Regression model shows that at zero Square footage there isn't much of a profit but with each additional square footage there stands to make about $253 more than the original price. This increase is a great way to make predict return on investment going forward.
+The first set of data that stood out was square footage of the interier living space. When evaluating set of visualizations, it was clear that this Square footage was the best option of the given data. The best fit line was straighter on then the other option. According to the linear regression model with every 212 square feet there is an increase in price. This increase is a great way to make predict return on investment going forward.
 
-### Crime
 
-The second set of data seemed significant was crime. As price goes up crime then goes up on average by 23. This could be because King county is a part of a major city, Seattle, so there is a higher probability of crime simply due to population density. However, giving your buyers the knowledge or area crime data might allow them to make an informed purchase for resale value.
+### Square footage from above 
+
+The second set of data that stood out was the square footge above ground level. When looking into this number as the square footage increased by 57 square feet the price increased as well. This could help buyer when they are deciding between a ranch or a traditional multiple story dwelling. 
 
 ### Landmarks 
 
-Landmarks had a very significant effect of the pricing of the predictive pricing of housing. In particular Docton Forest, a 40 acre forest attraction, as housing price increased by 1 the forest area forest area value increased by about 6,065. The other features were not as significant but attractions provide a good predictive indicator of housing prices.
+Landmarks had a very significant effect of the pricing of the predictive pricing of housing. These landmacks included scheools, libraries, and food sources. The inclusions of landmarcks jumped or model from having a variance of 55% to a variance of 72%. The shows that steering buyers to homes to self susstaining areas might help them get the best return in the long run.
 
 ### Conclusions
 
-In conclusion, Using the provided data and researched data we were able to model a linear regression model that showed that following elements are significant in predicting housing prices.
+In conclusion, Using the provided data and researched data we were able to model a linear regression model that showed that following elements are significant in predicting housing prices. The combination of living square footact, above square footage, and landmarks are significat predictors in the resale factors for buyer looking to renovate and sell the home for a profit. 
 
 
