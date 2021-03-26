@@ -27,7 +27,7 @@ The first set of data that stood out was square footage of the interier living s
 The second set of data that stood out was the square footge above ground level. When looking into this number as the square footage increased by 57 square feet the price increased as well. This could help buyer when they are deciding between a ranch or a traditional multiple story dwelling. 
 
 ### Landmarks 
-![KC](./notebooks/images/KC.png)
+![KC](./notebooks/images/kc_map.png)
 Landmarks had a very significant effect of the pricing of the predictive pricing of housing. These landmarks included scheools, libraries, and food sources. The inclusions of landmarks jumped or model from having a variance of 55% to a variance of 72%. The shows that steering buyers to homes to self sustaining areas might help them get the best return in the long run.
 
 ### Conclusions
