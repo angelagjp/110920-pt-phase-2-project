@@ -34,6 +34,6 @@ Landmarks had a very significant effect of the pricing of the predictive pricing
 
 ### Conclusions
 
-In conclusion, Using the provided data and researched data we were able to model a linear regression model that showed that following elements are significant in predicting housing prices. The combination of living square footact, above square footage, and landmarks are significat predictors in the resale factors for buyer looking to renovate and sell the home for a profit. 
+In conclusion, Using the provided data and researched data we were able to model a linear regression model that showed that following elements are significant in predicting housing prices. The combination of living square footage, above square footage, and landmarks are significat predictors in the resale factors for buyer looking to renovate and sell the home for a profit. 
 
 
